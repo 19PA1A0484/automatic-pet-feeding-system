@@ -20,3 +20,8 @@ by receiving the instructions from the feeder given through google assistant wit
 7.	To feed the pet, we have to Say "Okay Google. Feed my pet" to the Google Assistant. Google Assistant will recognize the phrase and respond with "Ok Task is complete." 
 8.	Node MCU automatically sends the triggers to the Servomotor which opens the lid of the food container and dispenses the food into bowl and closes the lid after a specific interval of time.
 9.	We can also program the system to dispense food at a specific time using commands like “Ok Google, feed my pet at 10 am “’
+
+# FUTURE SCOPE
+	 This system can be further implementing by using ARTIFICIAL INTELLIGENCE by training pet images, using the training dataset it can automatically recognizes the pet and sends the message to the feeder.
+	Using smart sensors like weight sensor, water sensor to send the messages to know the quantity of food and water.
+
